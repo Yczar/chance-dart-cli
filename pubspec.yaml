@@ -8,9 +8,7 @@ environment:
 
 dependencies:
   args: ^2.3.1
-  chance_dart:
-    git: 
-      url: https://github.com/Yczar/chance-dart.git
+  chance_dart: ^0.0.1-beta
   mason_logger: ^0.2.0
   pub_updater: ^0.2.1
 
