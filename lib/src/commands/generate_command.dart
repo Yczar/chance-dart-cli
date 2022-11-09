@@ -10,19 +10,6 @@ import 'package:chance_dart/chance_dart.dart';
 import 'package:chance_dart_cli/src/constants/constants.dart';
 import 'package:mason_logger/mason_logger.dart';
 
-final _suffixes = <String>[
-  boolean1,
-  character1,
-  falsy1,
-  floating1,
-  integer1,
-  letter1,
-  natural1,
-  prime1,
-  string1,
-  template1,
-];
-
 /// {@template generate_command}
 ///
 /// `chance_dart_cli generate`
